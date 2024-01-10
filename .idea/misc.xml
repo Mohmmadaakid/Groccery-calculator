@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/pc/Desktop/WOT/Gcalci/app/src/main/res/drawable/boxdesign.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/pc/Desktop/WOT/Gcalci/app/src/main/res/drawable/button.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/pc/Desktop/WOT/Gcalci/app/src/main/res/drawable/calcibtndelete.xml" value="0.3828125" />
+        <entry key="..\:/Users/pc/Desktop/WOT/Gcalci/app/src/main/res/drawable/circularbtn.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/pc/Desktop/WOT/Gcalci/app/src/main/res/drawable/operator_selector.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/pc/Desktop/WOT/Gcalci/app/src/main/res/drawable/selector.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/pc/Desktop/WOT/Gcalci/app/src/main/res/layout-large/activity_calculator.xml" value="0.275" />
+        <entry key="..\:/Users/pc/Desktop/WOT/Gcalci/app/src/main/res/layout-large/activity_gramactivity.xml" value="0.275" />
+        <entry key="..\:/Users/pc/Desktop/WOT/Gcalci/app/src/main/res/layout-large/activity_main.xml" value="0.275" />
+        <entry key="..\:/Users/pc/Desktop/WOT/Gcalci/app/src/main/res/layout-large/gramactivity.xml" value="0.275" />
+        <entry key="..\:/Users/pc/Desktop/WOT/Gcalci/app/src/main/res/layout-normal/activity_calculator.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/pc/Desktop/WOT/Gcalci/app/src/main/res/layout-normal/activity_gramactivity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/pc/Desktop/WOT/Gcalci/app/src/main/res/layout-normal/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/pc/Desktop/WOT/Gcalci/app/src/main/res/layout-normal/gramactivity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/pc/Desktop/WOT/Gcalci/app/src/main/res/layout-small/activity_calculator.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/pc/Desktop/WOT/Gcalci/app/src/main/res/layout-small/activity_gramactivity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/pc/Desktop/WOT/Gcalci/app/src/main/res/layout-small/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/pc/Desktop/WOT/Gcalci/app/src/main/res/layout-small/gramactivity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/pc/Desktop/WOT/Gcalci/app/src/main/res/layout-xlarge/activity_calculator.xml" value="0.275" />
+        <entry key="..\:/Users/pc/Desktop/WOT/Gcalci/app/src/main/res/layout-xlarge/activity_gramactivity.xml" value="0.275" />
+        <entry key="..\:/Users/pc/Desktop/WOT/Gcalci/app/src/main/res/layout-xlarge/activity_main.xml" value="0.275" />
+        <entry key="..\:/Users/pc/Desktop/WOT/Gcalci/app/src/main/res/layout-xlarge/gramactivity.xml" value="0.275" />
+        <entry key="..\:/Users/pc/Desktop/WOT/Gcalci/app/src/main/res/layout/activity_calculator.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/pc/Desktop/WOT/Gcalci/app/src/main/res/layout/activity_gramactivity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/pc/Desktop/WOT/Gcalci/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/pc/Desktop/WOT/Gcalci/app/src/main/res/layout/activity_splashgcalciapp.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/pc/Desktop/WOT/Gcalci/app/src/main/res/layout/gramactivity.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/pc/Desktop/WOT/Gcalci/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22135416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
