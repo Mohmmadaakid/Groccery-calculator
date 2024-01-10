@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+
+
+    <LinearLayout
+        android:padding="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+<TextView
+    android:layout_gravity="center"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text=" Result in rupees!"
+    android:textColor="#FF1616"
+    android:textStyle="bold"
+    android:textSize="25sp"
+    />
+
+
+        <ImageView
+            android:layout_width="120dp"
+            android:layout_height="125dp"
+            android:src="@drawable/hlogo"
+            android:layout_gravity="center"
+
+            />
+
+
+
+    <LinearLayout
+
+        android:layout_marginTop="25dp"
+        android:padding="10dp"
+
+        android:layout_width="wrap_content"
+        android:orientation="horizontal"
+        android:layout_height="60dp">
+
+        <EditText
+            android:id="@+id/num1"
+            android:ems="10"
+            android:inputType="number"
+            android:layout_width="148dp"
+            android:layout_height="40dp"
+            android:hint="enter gram"
+            android:textColor="#000"
+             android:paddingLeft="10dp"
+            android:layout_marginLeft="15dp"
+            android:background="@drawable/boxdesign"
+
+
+
+
+            />
+
+        <EditText
+
+            android:id="@+id/num12"
+            android:ems="10"
+            android:inputType="number"
+            android:layout_width="148dp"
+            android:layout_height="40dp"
+            android:hint="enter price in kg"
+            android:paddingLeft="10dp"
+            android:textColor="#000"
+            android:layout_marginLeft="15dp"
+            android:background="@drawable/boxdesign"
+
+
+            />
+
+    </LinearLayout>
+
+        <TextView
+            android:id="@+id/result"
+            android:drawableLeft="@drawable/ic_baseline_currency_rupee_24"
+            android:layout_marginTop="25dp"
+            android:layout_marginLeft="10dp"
+            android:paddingTop="10dp"
+            android:textSize="20sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:hint="result"
+            android:paddingLeft="150dp"
+            android:background="@drawable/boxdesign"
+            />
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="20dp"
+            android:layout_gravity="center"
+            android:padding="10dp"
+            >
+
+
+            <Button
+
+                android:id="@+id/btnmoney"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="enter"
+                android:onClick="money"
+
+                />
+
+
+            <Button
+                android:layout_marginLeft="35dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Reset"
+                android:id="@+id/reset"
+                />
+
+        </LinearLayout>
+
+
+
+
+
+
+        <LinearLayout
+
+            android:layout_marginTop="240dp"
+            android:layout_width="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center"
+            android:padding="10dp"
+            android:layout_height="wrap_content">
+
+
+
+
+
+            <ImageButton
+                android:layout_marginLeft="30dp"
+                android:layout_width="65dp"
+                android:onClick="Gram"
+                android:layout_height="65dp"
+                android:src="@drawable/ic_baseline_balance_24"
+                android:background="@drawable/circularbtn"/>
+
+
+            <ImageButton
+                android:layout_width="65dp"
+                android:layout_height="65dp"
+                android:layout_marginLeft="30dp"
+                android:src="@drawable/ic_baseline_calculate_24"
+                android:onClick="Calculator"
+                android:textAllCaps="false"
+                android:background="@drawable/circularbtn"
+                />
+
+
+
+
+
+
+
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="By aakid"
+            android:textColor="#A5A2A2"
+            android:textStyle="bold"
+            android:textSize="14sp"
+            />
+
+
+
+
+    </LinearLayout>
+
+
+</ScrollView>
+
+</RelativeLayout>
